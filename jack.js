@@ -200,7 +200,7 @@ function thirdCardDisplay () {
             displayCard[2].style.backgroundPosition = 'center'
                      break;         
          case 9:
-            displayCard[2].style.background = 'url(/CardNine.png) no-repeat'
+            displayCard[2].style.background = 'url(CardNine.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
                      break;  
