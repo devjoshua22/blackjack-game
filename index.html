@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="black.css">
+    <title>blackjack</title>
+</head>
+<body>
+    <button id="reset-game" onclick="location.reload()">Restart-game</button>
+    <div id="board">
+     <h1>Blackjack</h1>
+     <p id="message-el">wanna play a round ? </p>
+     <p id="card-el">Cards:</p>
+     <p id="sum-el">Sum:</p>
+     <div id="cards-pic">
+                <div  class="cards-class" ></div>
+                <div  class="cards-class" ></div>
+                <div  class="cards-class" ></div>
+                <div  class="cards-class" ></div>
+                <div  class="cards-class" ></div>
+                <div  class="cards-class" ></div>
+     </div>
+     <div id="play">
+     <button id="start-el" onclick="startGame()">START</button> 
+     <button id="new-el" onclick="newCard()"> NEW CARD</button>
+     <p id="player-el"></p>
+     <p id="link">Developed by: <a href="https://www.linkedin.com/in/joshua-okorosa-b26aa9265">Joshua Okorosa</a></p>
+    </div>
+     <script src="jack.js"></script>
+    </div>
+</body>
+</html>
