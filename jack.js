@@ -42,52 +42,52 @@ function randomcard(){
     switch (cards[0]) {
         case 1:
         case 11:
-            displayCard[0].style.background = 'url(/Spade-img/Ace.png) no-repeat'
+            displayCard[0].style.background = 'url(Ace.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
             break;
         case 2:
-            displayCard[0].style.background = 'url(/Spade-img/CardTwo.png) no-repeat'
+            displayCard[0].style.background = 'url(CardTwo.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
             break;        
         case 3:
-            displayCard[0].style.background = 'url(/Spade-img/CardThree.png) no-repeat'
+            displayCard[0].style.background = 'url(CardThree.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
                 break;  
         case 4:
-            displayCard[0].style.background = 'url(/Spade-img/CardFour.png) no-repeat'
+            displayCard[0].style.background = 'url(CardFour.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
                             break; 
         case 5:
-            displayCard[0].style.background = 'url(/Spade-img/CardFive.png) no-repeat'
+            displayCard[0].style.background = 'url(CardFive.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
                                 break;                         
         case 6:
-            displayCard[0].style.background = 'url(/Spade-img/CardSix.png) no-repeat'
+            displayCard[0].style.background = 'url(CardSix.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
                     break;
         case 7:
-            displayCard[0].style.background = 'url(/Spade-img/CardSeven.png) no-repeat'
+            displayCard[0].style.background = 'url(CardSeven.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
                     break;         
         case 8:
-            displayCard[0].style.background = 'url(/Spade-img/CardEight.png) no-repeat'
+            displayCard[0].style.background = 'url(CardEight.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
                      break;         
          case 9:
-            displayCard[0].style.background = 'url(/Spade-img/CardNine.png) no-repeat'
+            displayCard[0].style.background = 'url(CardNine.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
                      break;  
         case 10:
-            displayCard[0].style.background = 'url(/Spade-img/CardTen.png) no-repeat'
+            displayCard[0].style.background = 'url(CardTen.png) no-repeat'
             displayCard[0].style.backgroundSize = 'contain'
             displayCard[0].style.backgroundPosition = 'center'
                 break;  
@@ -100,53 +100,53 @@ function secondCardDisplay () {
     switch (cards[1]) {
         case 1:
         case 11:
-            displayCard[1].style.background = 'url(/Spade-img/Ace.png) no-repeat'
+            displayCard[1].style.background = 'url(Ace.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
             break;
         case 2:
-            displayCard[1].style.background = 'url(/Spade-img/CardTwo.png) no-repeat'
+            displayCard[1].style.background = 'url(CardTwo.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
 
             break;        
         case 3:
-            displayCard[1].style.background = 'url(/Spade-img/CardThree.png) no-repeat'
+            displayCard[1].style.background = 'url(CardThree.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
                 break;  
         case 4:
-            displayCard[1].style.background = 'url(/Spade-img/CardFour.png) no-repeat'
+            displayCard[1].style.background = 'url(CardFour.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
                             break; 
         case 5:
-            displayCard[1].style.background = 'url(/Spade-img/CardFive.png) no-repeat'
+            displayCard[1].style.background = 'url(CardFive.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
                                 break;                         
         case 6:
-            displayCard[1].style.background = 'url(/Spade-img/CardSix.png) no-repeat'
+            displayCard[1].style.background = 'url(CardSix.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
                     break;
         case 7:
-            displayCard[1].style.background = 'url(/Spade-img/CardSeven.png) no-repeat'
+            displayCard[1].style.background = 'url(CardSeven.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
                     break;         
         case 8:
-            displayCard[1].style.background = 'url(/Spade-img/CardEight.png) no-repeat'
+            displayCard[1].style.background = 'url(CardEight.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
                      break;         
          case 9:
-            displayCard[1].style.background = 'url(/Spade-img/CardNine.png) no-repeat'
+            displayCard[1].style.background = 'url(CardNine.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
                      break;  
         case 10:
-            displayCard[1].style.background = 'url(/Spade-img/CardTen.png) no-repeat'
+            displayCard[1].style.background = 'url(CardTen.png) no-repeat'
             displayCard[1].style.backgroundSize = 'contain'
             displayCard[1].style.backgroundPosition = 'center'
                 break;  
@@ -159,58 +159,58 @@ function thirdCardDisplay () {
     switch (cards[2]) {
         case 1:
         case 11:
-            displayCard[2].style.background = 'url(/Spade-img/Ace.png) no-repeat'
+            displayCard[2].style.background = 'url(Ace.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
             break;
         case 2:
-            displayCard[2].style.background = 'url(/Spade-img/CardTwo.png) no-repeat'
+            displayCard[2].style.background = 'url(CardTwo.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
 
             break;        
         case 3:
-            displayCard[2].style.background = 'url(/Spade-img/CardThree.png) no-repeat'
+            displayCard[2].style.background = 'url(CardThree.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
                 break;  
         case 4:
-            displayCard[2].style.background = 'url(/Spade-img/CardFour.png) no-repeat'
+            displayCard[2].style.background = 'url(CardFour.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
                             break; 
         case 5:
-            displayCard[2].style.background = 'url(/Spade-img/CardFive.png) no-repeat'
+            displayCard[2].style.background = 'url(CardFive.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
                                 break;                         
         case 6:
-            displayCard[2].style.background = 'url(/Spade-img/CardSix.png) no-repeat'
+            displayCard[2].style.background = 'url(CardSix.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
                     break;
         case 7:
-            displayCard[2].style.background = 'url(/Spade-img/CardSeven.png) no-repeat'
+            displayCard[2].style.background = 'url(CardSeven.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
                     break;         
         case 8:
-            displayCard[2].style.background = 'url(/Spade-img/CardEight.png) no-repeat'
+            displayCard[2].style.background = 'url(CardEight.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
                      break;         
          case 9:
-            displayCard[2].style.background = 'url(/Spade-img/CardNine.png) no-repeat'
+            displayCard[2].style.background = 'url(/CardNine.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
                      break;  
         case 10:
-            displayCard[2].style.background = 'url(/Spade-img/CardTen.png) no-repeat'
+            displayCard[2].style.background = 'url(CardTen.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
                 break;  
         default:
-            displayCard[2].style.background = 'url(/Spade-img/pngtree-four-ace.png) no-repeat'
+            displayCard[2].style.background = 'url(pngtree-four-ace.png) no-repeat'
             displayCard[2].style.backgroundSize = 'contain'
             displayCard[2].style.backgroundPosition = 'center'
             break;
@@ -220,58 +220,58 @@ function fourthCardDisplay () {
     switch (cards[3]) {
         case 1:
         case 11:
-            displayCard[3].style.background = 'url(/Spade-img/Ace.png) no-repeat'
+            displayCard[3].style.background = 'url(Ace.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
             break;
         case 2:
-            displayCard[3].style.background = 'url(/Spade-img/CardTwo.png) no-repeat'
+            displayCard[3].style.background = 'url(CardTwo.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
 
             break;        
         case 3:
-            displayCard[3].style.background = 'url(/Spade-img/CardThree.png) no-repeat'
+            displayCard[3].style.background = 'url(CardThree.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
                 break;  
         case 4:
-            displayCard[3].style.background = 'url(/Spade-img/CardFour.png) no-repeat'
+            displayCard[3].style.background = 'url(CardFour.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
                             break; 
         case 5:
-            displayCard[3].style.background = 'url(/Spade-img/CardFive.png) no-repeat'
+            displayCard[3].style.background = 'url(CardFive.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
                                 break;                         
         case 6:
-            displayCard[3].style.background = 'url(/Spade-img/CardSix.png) no-repeat'
+            displayCard[3].style.background = 'url(CardSix.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
                     break;
         case 7:
-            displayCard[3].style.background = 'url(/Spade-img/CardSeven.png) no-repeat'
+            displayCard[3].style.background = 'url(CardSeven.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
                     break;         
         case 8:
-            displayCard[3].style.background = 'url(/Spade-img/CardEight.png) no-repeat'
+            displayCard[3].style.background = 'url(CardEight.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
                      break;         
          case 9:
-            displayCard[3].style.background = 'url(/Spade-img/CardNine.png) no-repeat'
+            displayCard[3].style.background = 'url(CardNine.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
                      break;  
         case 10:
-            displayCard[3].style.background = 'url(/Spade-img/CardTen.png) no-repeat'
+            displayCard[3].style.background = 'url(CardTen.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
                 break;  
         default:
-            displayCard[3].style.background = 'url(/Spade-img/pngtree-four-ace.png) no-repeat'
+            displayCard[3].style.background = 'url(pngtree-four-ace.png) no-repeat'
             displayCard[3].style.backgroundSize = 'contain'
             displayCard[3].style.backgroundPosition = 'center'
             break;
@@ -281,58 +281,58 @@ function fifthCardDisplay () {
     switch (cards[4]) {
         case 1:
         case 11:
-            displayCard[4].style.background = 'url(/Spade-img/Ace.png) no-repeat'
+            displayCard[4].style.background = 'url(Ace.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
             break;
         case 2:
-            displayCard[4].style.background = 'url(/Spade-img/CardTwo.png) no-repeat'
+            displayCard[4].style.background = 'url(CardTwo.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
 
             break;        
         case 3:
-            displayCard[4].style.background = 'url(/Spade-img/CardThree.png) no-repeat'
+            displayCard[4].style.background = 'url(CardThree.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
                 break;  
         case 4:
-            displayCard[4].style.background = 'url(/Spade-img/CardFour.png) no-repeat'
+            displayCard[4].style.background = 'url(CardFour.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
                             break; 
         case 5:
-            displayCard[4].style.background = 'url(/Spade-img/CardFive.png) no-repeat'
+            displayCard[4].style.background = 'url(CardFive.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
                                 break;                         
         case 6:
-            displayCard[4].style.background = 'url(/Spade-img/CardSix.png) no-repeat'
+            displayCard[4].style.background = 'url(CardSix.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
                     break;
         case 7:
-            displayCard[4].style.background = 'url(/Spade-img/CardSeven.png) no-repeat'
+            displayCard[4].style.background = 'url(CardSeven.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
                     break;         
         case 8:
-            displayCard[4].style.background = 'url(/Spade-img/CardEight.png) no-repeat'
+            displayCard[4].style.background = 'url(CardEight.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
                      break;         
          case 9:
-            displayCard[4].style.background = 'url(/Spade-img/CardNine.png) no-repeat'
+            displayCard[4].style.background = 'url(CardNine.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
                      break;  
         case 10:
-            displayCard[4].style.background = 'url(/Spade-img/CardTen.png) no-repeat'
+            displayCard[4].style.background = 'url(CardTen.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
                 break;  
         default:
-            displayCard[4].style.background = 'url(/Spade-img/pngtree-four-ace.png) no-repeat'
+            displayCard[4].style.background = 'url(pngtree-four-ace.png) no-repeat'
             displayCard[4].style.backgroundSize = 'contain'
             displayCard[4].style.backgroundPosition = 'center'
             break;
@@ -342,83 +342,83 @@ function sixthCardDisplay () {
     switch (cards[5]) {
         case 11:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/Ace.png) no-repeat'
+            displayCard[5].style.background = 'url(Ace.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
             break;
         case 2:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/CardTwo.png) no-repeat'
+            displayCard[5].style.background = 'url(CardTwo.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
             break;        
         case 3:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/CardThree.png) no-repeat'
+            displayCard[5].style.background = 'url(CardThree.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
                 break;  
         case 4:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/CardFour.png) no-repeat'
+            displayCard[5].style.background = 'url(CardFour.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
                   break; 
         case 5:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/CardFive.png) no-repeat'
+            displayCard[5].style.background = 'url(CardFive.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
                                 break;                         
         case 6:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/CardSix.png) no-repeat'
+            displayCard[5].style.background = 'url(CardSix.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
                     break;
         case 7:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/CardSeven.png) no-repeat'
+            displayCard[5].style.background = 'url(CardSeven.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
                     break;         
         case 8:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/CardEight.png) no-repeat'
+            displayCard[5].style.background = 'url(CardEight.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
                      break;         
          case 9:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/CardNine.png) no-repeat'
+            displayCard[5].style.background = 'url(CardNine.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
                      break;  
         case 10:
             displayCard[5].style.display ='inline' 
-            displayCard[5].style.background = 'url(/Spade-img/CardTen.png) no-repeat'
+            displayCard[5].style.background = 'url(CardTen.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
                 break;  
         default:
             displayCard[5].style.display ='none' 
-            displayCard[5].style.background = 'url(/Spade-img/pngtree-four-ace.png) no-repeat'
+            displayCard[5].style.background = 'url(pngtree-four-ace.png) no-repeat'
             displayCard[5].style.backgroundSize = 'contain'
             displayCard[5].style.backgroundPosition = 'center'
             break;
     }
 }
 function defaultCardView(){
-    displayCard[3].style.background = 'url(/Spade-img/pngtree-four-ace.png) no-repeat'
+    displayCard[3].style.background = 'url(pngtree-four-ace.png) no-repeat'
     displayCard[3].style.backgroundSize = 'contain'
     displayCard[3].style.backgroundPosition = 'center'
-    displayCard[2].style.background = 'url(/Spade-img/pngtree-four-ace.png) no-repeat'
+    displayCard[2].style.background = 'url(pngtree-four-ace.png) no-repeat'
     displayCard[2].style.backgroundSize = 'contain'
     displayCard[2].style.backgroundPosition = 'center'
-    displayCard[4].style.background = 'url(/Spade-img/pngtree-four-ace.png) no-repeat'
+    displayCard[4].style.background = 'url(pngtree-four-ace.png) no-repeat'
     displayCard[4].style.backgroundSize = 'contain'
     displayCard[4].style.backgroundPosition = 'center'
-    displayCard[5].style.background = 'url(/Spade-img/pngtree-four-ace.png) no-repeat'
+    displayCard[5].style.background = 'url(pngtree-four-ace.png) no-repeat'
     displayCard[5].style.backgroundSize = 'contain'
     displayCard[5].style.backgroundPosition = 'center'
 }
