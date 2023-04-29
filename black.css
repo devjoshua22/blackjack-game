@@ -78,7 +78,7 @@ p{
     min-width: 80px;
 }
 .cards-class{
-    background: url(/Spade-img/pngtree-four-ace.png) no-repeat;
+    background: url(pngtree-four-ace.png) no-repeat;
     background-position: center;
     background-size: contain;
     padding: 60px ;
